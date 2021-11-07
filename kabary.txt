@@ -1,13 +1,11 @@
 <span id="a">n4f1h z4in@server</span>:<span id="b">~</span><span id="c">$</span> cd Shadow/<!-- laglaglaglaglaglag -->About_Us
 <span id="a">n4f1h z4in@server</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[z41n].txt<br/><br/>
-My favorite code quote, "<span id="k">What you leave behind is not what is engraved in stone monuments, but what is woven into the lives of others.</span>". <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k"> " Give the world A reason to remember your Name "  </span>". <!-- sjkfhskjf -->
 
 <p>I am N4f1h z4in; I am a tech enthusiast who likes to hack for fun. 
 I also like watching the  and going for a cruise with my skateboard. My favorite Hacker is Hamza bendellaji.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> I am the 2016 & 2020 LiFT award winner.<a href="https://training.linuxfoundation.org/announcements/success-story-from-kernel-development-student-to-sysadmin-to-linux-author/"> My Story</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>I am in the process of developing a cool tools that can be start of something great! I have also written a Linux blog that takes you from medium level linux interaction: <a href=" https://www.amazon.com/Learn-Linux-Quickly-Friendly-Operating-ebook/dp/B088NKH6TJ">Learn Linux Quickly</a></p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can check out my current projects, social network, and online courses, here: <br><br> <a href="https://github.com/kabary"> My Github </a> <br> <a href="https://www.linkedin.com/in/ahmedalkabary"> My LinkedIn </a> <br> <a href="https://www.udemy.com/user/ahmedalkabary"> My Courses </a></p>
-
+<p>I am in the process of developing a cool tools that can be start of something great! I have also written a Linux blog that takes you from medium level linux interaction: <a href=" https://n4f1hz41n.medium.com/a-linux-review-41274bde467d?source=user_profile---------0-------------------------------">A Linux Review </a></p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> You can check out my current projects, social network, and online courses, here: <br><br> <a href="https://github.com/n4f1hz4in"> My Github </a> <br> <a href="https://twitter.com/NafihZain"> My twitter </a>
 Stay tuned as more content is coming soon! <!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="ahmed.alkabary@gmail.com"> abdulnafih160@gmail.com</a>.
 
 <p>Cheers!</p>
